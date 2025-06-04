@@ -1,0 +1,10 @@
+Code,Value,Suit,Código Válido?
+6H,6,HEARTS,Válido
+0S,10,SPADES,Válido
+7H,7,HEARTS,Válido
+QD,QUEEN,DIAMONDS,Válido
+8H,8,HEARTS,Válido
+0D,10,DIAMONDS,Válido
+6S,6,SPADES,Válido
+5D,5,DIAMONDS,Válido
+0C,10,CLUBS,Válido
